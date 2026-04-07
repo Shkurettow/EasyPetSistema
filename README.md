@@ -7,7 +7,7 @@ Em Desenvolvimento - O EasyPet é um software desktop desenvolvido para otimizar
 * JDBC (Conexão)
 * NetBeans IDE
 
- Objetivo do Software
+ Objetivo do Software:
  
 O sistema visa facilitar a gestão de uma pet shop, permitindo o controle de cadastros e agendamentos de forma digital e organizada.
 
